@@ -1,1 +1,1 @@
-https://smitmorjariya.github.io/
+https://smitmorjariya.netlify.app/
