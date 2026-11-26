@@ -377,6 +377,9 @@ export function ContactSection() {
                     <p className="mt-1 text-xs leading-relaxed text-emerald-100/85">
                       {deliveredReceipt.message}
                     </p>
+                    <p className="mt-1.5 text-xs leading-relaxed text-emerald-100/85">
+                      If you don&apos;t see the confirmation email in your inbox, please check your Spam or Junk folder as well.
+                    </p>
                     <p className="mt-1.5 text-xs text-emerald-200/75">
                       Confirmation sent to <span className="font-medium text-emerald-100">{deliveredReceipt.senderEmail}</span>.
                     </p>
