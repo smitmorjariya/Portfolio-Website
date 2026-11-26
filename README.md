@@ -11,9 +11,10 @@ This portfolio presents my technical profile as a Computer Science graduate and 
 # 📁 Project Screenshot
 
 <!-- Replace the placeholder below with a full-page or hero screenshot of your live portfolio once uploaded to GitHub -->
-> 📸 **Screenshot Placeholder:** Upload a preview image of the live portfolio (for example, `1920×1080` hero or full-page capture) to your GitHub repository or GitHub issue attachments and replace this block with:
+
 > ```markdown
-> ![Smit Morjariya Portfolio Preview](path-or-url-to-your-portfolio-screenshot.png)
+> ![Smit Morjariya Portfolio Preview](<img width="1440" height="900" alt="r2-desktop-hero" src="https://github.com/user-attachments/assets/d7e017f5-bd67-4967-8e84-0c5218841c5e" />
+)
 > ```
 
 ---
