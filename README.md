@@ -13,9 +13,8 @@ This portfolio presents my technical profile as a Computer Science graduate and 
 <!-- Replace the placeholder below with a full-page or hero screenshot of your live portfolio once uploaded to GitHub -->
 
 Smit Morjariya Portfolio Preview:
+
 <img width="1440" height="900" alt="r2-desktop-hero" src="https://github.com/user-attachments/assets/d7e017f5-bd67-4967-8e84-0c5218841c5e" />
-
-
 
 
 ## ✨ Features
